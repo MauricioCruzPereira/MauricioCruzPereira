@@ -2,10 +2,9 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
 
 
-- 🔭 Desenvolvidor back e front end
+- 🔭 Desenvolvedor back/front end
 - 🌱 Estudando Reactjs
 - 📫 Contato por email: mauriciopereira2310@gmail.com
-- ⚡ Fun fact: ...
 
 <div align="center">
   <a href="https://github.com/mauricinhoo">
