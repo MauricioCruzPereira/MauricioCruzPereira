@@ -3,6 +3,7 @@
 
 
 - 🔭 Desenvolvedor back/front end
+- 💻 Programador Node
 - 🌱 Estudando Reactjs
 - 📫 Contato por email: mauriciopereira2310@gmail.com
 
