@@ -3,7 +3,6 @@
 
 <div><br>
   <div style="display: inline_block" align="center">
-    <a href="#"><img src="./code-icon.svg" height="120em"/></a>
 
     < Olá a todos, Eu sou Mauricio e bem-vindo ao meu perfil do github. 🚀 />
     < Hi everyone, I'm Mauricio and welcome to my github profile. 🚀 />
