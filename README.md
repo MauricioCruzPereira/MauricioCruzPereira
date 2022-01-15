@@ -1,6 +1,16 @@
 ### <h2>Olá! Eu sou o Mauricio</h2>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
 
+<div><br>
+  <div style="display: inline_block" align="center">
+    <a href="#"><img src="./code-icon.svg" height="120em"/></a>
+
+    < Olá a todos, Eu sou Mauricio e bem-vindo ao meu perfil do github. 🚀 />
+    < Hi everyone, I'm Mauricio and welcome to my github profile. 🚀 />
+  </div>
+</div>
+
+
 
 - 🔭 Desenvolvedor back/front end
 - 💻 Programador Node
