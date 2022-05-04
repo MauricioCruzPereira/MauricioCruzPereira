@@ -12,7 +12,7 @@
 
 
 - 🔭 Desenvolvedor backend
-- 💻 Programador Node
+- 💻 Programador PHP
 - 📫 Contato por email: mauriciopereira2310@gmail.com
 
 <div align="center">
