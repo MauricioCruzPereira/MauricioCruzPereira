@@ -9,7 +9,42 @@
   </div>
 </div>
 
+```php
+<?php
 
+namespace Mauricio/Pereira
+
+class About extends Me
+{
+    public function getCurrentWorkplace(): array
+    {
+        return [
+            'workplace' => [
+                'company' => 'Web.art Group',
+                'position' => 'PHP Developer'         
+            ]
+        ];
+    }
+
+    public function getKnowledge(): array
+    {
+        return [
+            Php::class,
+            Javascript::class,
+            Laravel::class,
+            MVC::class  
+        ];
+    }
+
+    public function getStudying(): Array
+    {
+       return [
+            Laravel::class,
+            Vue::class
+        ];
+   
+}
+```
 
 - 🔭 Desenvolvedor backend
 - 💻 Programador PHP
@@ -21,12 +56,5 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MauricioCruzPereira&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
   
-<div style="display: inline_block"><br>
-  <img align="center" alt="Mau-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Mau-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Mau-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Mau-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-                     <img align="center" alt="Mau-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-</div>
 
 ### 
