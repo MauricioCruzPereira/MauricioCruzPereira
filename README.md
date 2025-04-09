@@ -41,6 +41,7 @@ class About extends Me
        return [
             Laravel::class,
         ];
+    }
    
 }
 ```
